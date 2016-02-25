@@ -21,7 +21,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1454127431
-ModificationTime: 1454887488
+ModificationTime: 1456367201
 PfmFamily: 17
 TTFWeight: 300
 TTFWidth: 5
@@ -109,7 +109,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 96 16 4
+WinInfo: 64 16 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -327,17 +327,17 @@ AnchorPoint: "dot" 425 760 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-140 350 m 0
+140 350 m 4
  140 184 264 60 425 60 c 0
  513 60 591 100 644 161 c 1
  692 113 l 1
  627 38 531 -10 425 -10 c 0
- 230 -10 70 151 70 350 c 0
+ 230 -10 70 151 70 350 c 4
  70 549 230 710 425 710 c 0
  531 710 627 662 692 587 c 1
- 644 539 l 5
+ 644 539 l 1
  591 600 513 640 425 640 c 0
- 264 640 140 516 140 350 c 0
+ 264 640 140 516 140 350 c 4
 EndSplineSet
 EndChar
 
@@ -347,7 +347,7 @@ Width: 800
 VWidth: 0
 InSpiro: 1
 Flags: HMW
-AnchorPoint: "ced" 712 0 basechar 0
+AnchorPoint: "ced" 707 0 basechar 0
 AnchorPoint: "ring" 400 700 basechar 0
 AnchorPoint: "dot" 400 760 basechar 0
 LayerCount: 2
@@ -377,28 +377,28 @@ SplineSet
     194 190 v
     0 0 z
   EndSpiro
-681 0 m 1
+676 0 m 1
  366 690 l 1
  430 700 l 1
- 760 0 l 1
- 681 0 l 1
+ 755 0 l 1
+ 676 0 l 1
   Spiro
-    681 0 v
+    676 0 v
     366 690 v
     430 700 v
-    760 0 v
+    755 0 v
     0 0 z
   EndSpiro
 370 700 m 1
  434 690 l 1
- 119 0 l 1
- 40 0 l 1
+ 124 0 l 1
+ 45 0 l 1
  370 700 l 1
   Spiro
     370 700 v
     434 690 v
-    119 0 v
-    40 0 v
+    124 0 v
+    45 0 v
     0 0 z
   EndSpiro
 EndSplineSet
@@ -559,45 +559,45 @@ Encoding: 66 66 15
 Width: 695
 VWidth: 0
 Flags: HMW
-AnchorPoint: "ced" 327 0 basechar 0
-AnchorPoint: "dot" 308 760 basechar 0
+AnchorPoint: "ced" 317 0 basechar 0
+AnchorPoint: "dot" 298 760 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-360 388 m 1
- 453 388 528 412 528 507 c 0
- 528 602 453 630 360 630 c 1
- 360 700 l 1
- 489 700 598 631 598 507 c 0
- 598 384 499 330 360 330 c 1
- 360 388 l 1
+350 388 m 5
+ 443 388 518 412 518 507 c 4
+ 518 602 443 630 350 630 c 5
+ 350 700 l 5
+ 479 700 588 631 588 507 c 4
+ 588 384 489 330 350 330 c 5
+ 350 388 l 5
 100 700 m 1
  170 700 l 1
  170 0 l 1
  100 0 l 1
  100 700 l 1
 100 70 m 1
- 400 70 l 1
- 400 0 l 1
+ 390 70 l 5
+ 390 0 l 5
  100 0 l 1
  100 70 l 1
 100 700 m 1
- 360 700 l 1
- 360 630 l 1
+ 350 700 l 5
+ 350 630 l 5
  100 630 l 1
  100 700 l 1
 100 388 m 1
- 400 388 l 1
- 400 318 l 1
+ 390 388 l 5
+ 390 318 l 5
  100 318 l 1
  100 388 l 1
-400 70 m 1
- 493 70 575 95 575 195 c 0
- 575 295 493 318 400 318 c 1
- 400 375 l 1
- 539 375 645 324 645 195 c 0
- 645 66 539 0 400 0 c 1
- 400 70 l 1
+390 70 m 5
+ 483 70 565 95 565 195 c 4
+ 565 295 483 318 390 318 c 5
+ 390 375 l 5
+ 529 375 635 324 635 195 c 4
+ 635 66 529 0 390 0 c 5
+ 390 70 l 5
 EndSplineSet
 EndChar
 
@@ -675,30 +675,30 @@ Width: 643
 VWidth: 0
 Flags: HMW
 AnchorPoint: "ced" 140 0 basechar 0
-AnchorPoint: "dot" 320 760 basechar 0
+AnchorPoint: "dot" 315 760 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-360 333 m 5
- 458 333 528 387 528 477 c 4
- 528 567 458 630 360 630 c 5
- 360 700 l 5
- 489 700 598 602 598 477 c 4
- 598 353 489 263 360 263 c 5
- 360 333 l 5
+355 333 m 5
+ 453 333 523 387 523 477 c 4
+ 523 567 453 630 355 630 c 5
+ 355 700 l 5
+ 484 700 593 602 593 477 c 4
+ 593 353 484 263 355 263 c 5
+ 355 333 l 5
 100 700 m 1
  170 700 l 1
  170 0 l 1
  100 0 l 1
  100 700 l 1
 105 700 m 1
- 360 700 l 1
- 360 630 l 1
+ 355 700 l 5
+ 355 630 l 5
  105 630 l 1
  105 700 l 1
 105 333 m 1
- 360 333 l 1
- 360 263 l 1
+ 355 333 l 5
+ 355 263 l 5
  105 263 l 1
  105 333 l 1
 EndSplineSet
@@ -742,18 +742,18 @@ AnchorPoint: "dot" 265 760 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-434 260 m 1
- 434 700 l 1
- 499 700 l 1
- 499 260 l 1
- 434 260 l 1
-434 260 m 5
- 499 260 l 1
- 499 91 404 -10 265 -10 c 0
+424 260 m 5
+ 424 700 l 5
+ 489 700 l 5
+ 489 260 l 5
+ 424 260 l 5
+424 260 m 5
+ 489 260 l 5
+ 489 91 404 -10 265 -10 c 0
  157 -10 72 51 30 157 c 1
  86 187 l 1
  121 104 177 54 265 54 c 0
- 362 54 434 131 434 260 c 5
+ 362 54 424 131 424 260 c 5
 EndSplineSet
 EndChar
 
@@ -1503,7 +1503,7 @@ SplineSet
  437 530 505 449 505 330 c 1
  440 330 l 1
 288 475 m 1
- 206 475 163 443 114 403 c 5
+ 206 475 163 443 114 403 c 1
  80 450 l 1
  137 499 192 530 294 530 c 1
  288 475 l 1
@@ -1512,16 +1512,16 @@ SplineSet
  505 0 l 1
  440 0 l 1
  440 330 l 1
-108 155 m 1
- 108 87 157 50 270 50 c 0
+108 160 m 1
+ 108 82 162 50 270 50 c 4
  358 50 440 100 440 180 c 1
  475 180 l 1
  475 71 389 -10 240 -10 c 0
  141 -10 43 41 43 160 c 1
- 108 155 l 1
+ 108 160 l 1
 320 312 m 1
  350 263 l 1
- 201 263 108 250 108 155 c 1
+ 201 263 108 245 108 160 c 1
  43 160 l 1
  43 295 183 312 320 312 c 1
 EndSplineSet
