@@ -1,6 +1,4 @@
 [Jones*](http://indestructible-type.github.io/Jones.html)
 ========
 
-Jones* is based off of the work of Tobias Frere-Jones. This font is licensed under the [SIL opend type license](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL).
-
-This font is still in the works. If you encounter issues feel free to post bugs.
+Hey you found the secret font! Jones* is a relic of a previous iteration of this project and is still used in much of the site. Someday it might find its way back onto the site. In the meantime, it's still available for download here. 
